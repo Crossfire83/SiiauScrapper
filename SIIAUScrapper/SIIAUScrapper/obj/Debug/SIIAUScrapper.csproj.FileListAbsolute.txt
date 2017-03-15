@@ -1,0 +1,11 @@
+c:\users\tigre_000\documents\visual studio 2015\Projects\SIIAUScrapper\SIIAUScrapper\bin\Debug\SIIAUScrapper.exe.config
+C:\Users\tigre_000\documents\visual studio 2015\Projects\SIIAUScrapper\SIIAUScrapper\bin\Debug\SIIAUScrapper.exe
+C:\Users\tigre_000\documents\visual studio 2015\Projects\SIIAUScrapper\SIIAUScrapper\bin\Debug\SIIAUScrapper.pdb
+C:\Users\tigre_000\documents\visual studio 2015\Projects\SIIAUScrapper\SIIAUScrapper\bin\Debug\Fizzler.dll
+C:\Users\tigre_000\documents\visual studio 2015\Projects\SIIAUScrapper\SIIAUScrapper\bin\Debug\Fizzler.xml
+C:\Users\tigre_000\documents\visual studio 2015\Projects\SIIAUScrapper\SIIAUScrapper\obj\Debug\SIIAUScrapper.csprojResolveAssemblyReference.cache
+C:\Users\tigre_000\documents\visual studio 2015\Projects\SIIAUScrapper\SIIAUScrapper\obj\Debug\SIIAUScrapper.Form1.resources
+C:\Users\tigre_000\documents\visual studio 2015\Projects\SIIAUScrapper\SIIAUScrapper\obj\Debug\SIIAUScrapper.Properties.Resources.resources
+C:\Users\tigre_000\documents\visual studio 2015\Projects\SIIAUScrapper\SIIAUScrapper\obj\Debug\SIIAUScrapper.csproj.GenerateResource.Cache
+C:\Users\tigre_000\documents\visual studio 2015\Projects\SIIAUScrapper\SIIAUScrapper\obj\Debug\SIIAUScrapper.exe
+C:\Users\tigre_000\documents\visual studio 2015\Projects\SIIAUScrapper\SIIAUScrapper\obj\Debug\SIIAUScrapper.pdb
