@@ -9,3 +9,8 @@ C:\Users\tigre_000\documents\visual studio 2015\Projects\SIIAUScrapper\SIIAUScra
 C:\Users\tigre_000\documents\visual studio 2015\Projects\SIIAUScrapper\SIIAUScrapper\obj\Debug\SIIAUScrapper.csproj.GenerateResource.Cache
 C:\Users\tigre_000\documents\visual studio 2015\Projects\SIIAUScrapper\SIIAUScrapper\obj\Debug\SIIAUScrapper.exe
 C:\Users\tigre_000\documents\visual studio 2015\Projects\SIIAUScrapper\SIIAUScrapper\obj\Debug\SIIAUScrapper.pdb
+C:\Users\tigre_000\documents\visual studio 2015\Projects\SIIAUScrapper\SIIAUScrapper\bin\Debug\Fizzler.Systems.HtmlAgilityPack.dll
+C:\Users\tigre_000\documents\visual studio 2015\Projects\SIIAUScrapper\SIIAUScrapper\bin\Debug\HtmlAgilityPack.dll
+C:\Users\tigre_000\documents\visual studio 2015\Projects\SIIAUScrapper\SIIAUScrapper\bin\Debug\Fizzler.Systems.HtmlAgilityPack.xml
+C:\Users\tigre_000\documents\visual studio 2015\Projects\SIIAUScrapper\SIIAUScrapper\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\tigre_000\documents\visual studio 2015\Projects\SIIAUScrapper\SIIAUScrapper\bin\Debug\HtmlAgilityPack.xml
